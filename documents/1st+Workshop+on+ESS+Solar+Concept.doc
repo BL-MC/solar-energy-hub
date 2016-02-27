@@ -1,0 +1,476 @@
+Message-ID: <11438283.2391.1456474265340.JavaMail.js-confluence@ess-ics.atlassian.net>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2390_25770969.1456474265339"
+
+------=_Part_2390_25770969.1456474265339
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>1st Workshop on ESS Solar Concept</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>1st Workshop on ESS Solar Concept</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"id-1stWorkshoponESSSolarConcept-Date">Date</h2>
+<p><time datetime=3D"2015-10-07" class=3D"date-past">07 Oct 2015</time></p>
+<h2 class=3D"confluence-link confluence-userlink user-mention current-user-=
+mention" id=3D"id-1stWorkshoponESSSolarConcept-Attendees">Attendees</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Name</th>
+<th class=3D"confluenceTh">Company</th>
+<th colspan=3D"1" class=3D"confluenceTh">&nbsp;</th>
+<th colspan=3D"1" class=3D"confluenceTh">Name</th>
+<th colspan=3D"1" class=3D"confluenceTh">Company</th>
+<th colspan=3D"1" class=3D"confluenceTh">&nbsp;</th>
+<th colspan=3D"1" class=3D"confluenceTh">Name</th>
+<th colspan=3D"1" class=3D"confluenceTh">Company</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:mats.a=
+lakula@volvo.com" rel=3D"nofollow">Mats Alak=C3=BCla </a></td>
+<td class=3D"confluenceTd">LTH</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:mats.renntun@eon.se" rel=3D"nofollow">Mats Renntun</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">E.ON<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Liisa.Fransson@kraftringen.se" rel=3D"nofollow">Liisa Fransson</a><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">Kraftringen</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:Anton.=
+Lundmark@esss.se" rel=3D"nofollow">Anton Lundmark</a></td>
+<td class=3D"confluenceTd">ESS</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:nikolett.sipocz2@eon.se" rel=3D"nofollow">Nikolett Sipocz</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">E.ON<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"pane-title"><a href=3D=
+"mailto:jorgen.svensson@iea.lth.se" class=3D"external-link" rel=3D"nofollow=
+">J=C3=B6rgen Svensson</a></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">LTH</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:ase.to=
+gero@skanska.se" rel=3D"nofollow">=C3=85se Toger=C3=B6</a></td>
+<td class=3D"confluenceTd">Skanska</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:peter.m.andersson@eon.se" rel=3D"nofollow">Peter Andersson </a></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">E.ON<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Lennart.Stenman@esss.se" rel=3D"nofollow">Lennart Stenman</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">ESS</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:Carlos=
+.Martins@esss.se" rel=3D"nofollow">Carlos Martins</a></td>
+<td class=3D"confluenceTd">ESS</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Peter.Rodenstam@kraftringen.se" rel=3D"nofollow">Peter Rodenstam</a=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd">Kraftringen</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:david.mcginnis@esss.se" rel=3D"nofollow">David McGinnis</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">ESS</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:hans.p=
+ilebro@skanska.se" rel=3D"nofollow">Hans Pilebro</a></td>
+<td class=3D"confluenceTd">Skanska</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Richard.Bengtsson@kraftringen.se" rel=3D"nofollow">Richard Bengtsso=
+n </a></td>
+<td colspan=3D"1" class=3D"confluenceTd">Kraftringen</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Lars.Hammar@kraftringen.se" rel=3D"nofollow">Lars Hammar</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">Kraftringen</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:jorgen=
+.i.wingren@se.abb.com" rel=3D"nofollow">J=C3=B6rgen Wingren</a></td>
+<td class=3D"confluenceTd">ABB</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:Sonny.Stromberg@eon.se" rel=3D"nofollow">Sonny Str=C3=B6mberg</a></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">E.ON<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:thomas.pettersson@eon.se" rel=3D"nofollow">Thomas Pettersson</a></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">E.ON<=
+/span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"mailto:kjell.=
+moller@kminternational.se" rel=3D"nofollow">Kjell M=C3=B6ller</a></td>
+<td class=3D"confluenceTd">KMI</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"mailto:sven.lindstrom@midsummer.se" rel=3D"nofollow">Sven Lindstrom</a></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Midsummer</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"mailto:jon.andersson@lu=
+nd.se" class=3D"external-link" rel=3D"nofollow">Jon Andersson</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">Lund City Office</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-1stWorkshoponESSSolarConcept-Goals">Goals</h2>
+<ul>
+<li>Present possible phasing of the ESS Solar Concept</li>
+<li>Presentation of companies sustainability portfolios <br>
+<ul>
+<li>A representative from each company participating should briefly(&lt;15m=
+in) describe their current strengths, activities, and future interests</li>
+</ul></li>
+<li>Determine interest in participation in the ESS Solar Concept</li>
+<li>Determine the next steps.</li>
+</ul>
+<h2 id=3D"id-1stWorkshoponESSSolarConcept-Discussionitems">Discussion items=
+</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Time</th>
+<th class=3D"confluenceTh">Item</th>
+<th class=3D"confluenceTh">Who</th>
+<th class=3D"confluenceTh">Slides</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">14:30-14:45</td>
+<td class=3D"confluenceTd">Concept Summary and Possible Phasing</td>
+<td class=3D"confluenceTd">David McGinnis</td>
+<td class=3D"confluenceTd"><a href=3D"https://drive.google.com/open?id=3D1x=
+m11_1rA9UNhjgogT-d2dHethaug1oEWVxnp2eWW0OM" class=3D"external-link" rel=3D"=
+nofollow">Slides</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">14:45-16:00</td>
+<td class=3D"confluenceTd">Sustainability Portfolios</td>
+<td class=3D"confluenceTd">Companies</td>
+<td class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">14:45-15:00</td>
+<td colspan=3D"1" class=3D"confluenceTd">Midsummer</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">Sven =
+Lindstrom</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">15:00-15:15</td>
+<td colspan=3D"1" class=3D"confluenceTd">ABB</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">J=C3=
+=B6rgen Wingren</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">15:15-15:30</td>
+<td colspan=3D"1" class=3D"confluenceTd">E.ON</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">Sonny=
+ Str=C3=B6mberg</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">15:30-15:45</td>
+<td colspan=3D"1" class=3D"confluenceTd">Kraftringen</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">Richa=
+rd Bengtsson </span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">15:45-16:00</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Skanska</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">=C3=
+=85se Toger=C3=B6</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">16:00-16:15</td>
+<td colspan=3D"1" class=3D"confluenceTd">Coffee Break</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">16:15-17:00</td>
+<td colspan=3D"1" class=3D"confluenceTd">Next Steps and Discussion</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"in-cell-link">Mats =
+Alak=C3=BCla </span></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-1stWorkshoponESSSolarConcept-MeetingMinutes">Meeting Minutes</=
+h2>
+<ul>
+<li>ESS-LTH made a short summary of the ESS-Solar Concept</li>
+<li>ESS-LTH presented possible project staging plan.</li>
+<li>Presentations were made by Midsummer, ABB, E.ON, Kraftringen, and Skans=
+ka.</li>
+<li>Statement of interest was made by Jon Andersson Head of the Enviromenta=
+l Strategy Unit of the Lund City Office</li>
+<li>Discussion of concept followed a number of issues were raised:
+<ul>
+<li>Time scale of the project.
+<ul>
+<li>Short term view of 2020 or long term view of 2030 and beyond.</li>
+</ul></li>
+<li>Number of phases in the concept as related to the project timescales.</=
+li>
+<li>Optimum mix of photo-voltaic and heat energy.</li>
+<li>Concept of Brunnsh=C3=B6g as an Energy Hub (or center)</li>
+</ul></li>
+<li>Discussion on how to develop concept further <br>
+<ul>
+<li>Develop project proposal and business case by early 2016 to use pursue =
+<br>
+<ul>
+<li>funding</li>
+<li>and partner commitments</li>
+</ul></li>
+<li>Agreement to form working groups lead by industrial partners and coordi=
+nated by ESS-LTH<br>
+<ul>
+<li>Hybrid solar technology</li>
+<li>Thermal heating configuration and storage</li>
+<li>Power systems configuration and automation</li>
+<li>ESS site architecture</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id=3D"id-1stWorkshoponESSSolarConcept-Actionitems">Action items</h2>
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"52331826">
+<li data-inline-task-id=3D"1"><span>&nbsp;</span></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_2390_25770969.1456474265339--
