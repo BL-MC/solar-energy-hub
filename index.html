@@ -11,8 +11,16 @@
 		<script>
 		var sunnySweden = "sunnySweden";
 		var sunnySwedenText = "From wind power to hydro-power to bio-waste, Sweden is a world leader in renewable energy. However, large scale solar power installations are noticeably lacking from Sweden&#39;s renewable energy portfolio. Sweden might not have the reputation as a sunshine getaway vacation destination, but surprisingly, " 
-			+ "<a target=\"_blank\" href=\"https://drive.google.com/open?id=16RJWfyaoHaQL01EMQmW4cPWAATaI70_SQNm3wIXKiJ4\">" 
+			+ "<a target=\"_blank\" href=\"https://docs.google.com/presentation/d/16RJWfyaoHaQL01EMQmW4cPWAATaI70_SQNm3wIXKiJ4/pub?start=false&loop=false&delayms=3000\">" 
 			+ "the yearly solar energy potential of southern Sweden is 60% that of sun-drenched Casablanca Morocco." + "</a>";
+		var solarAccelerator = "solarAccelerator";
+		var solarAcceleratorText = "ESS is implementing a new concept for energizing the accelerator called Stacked Multi-Level Topology Modulators. The main motivation for this new type of modulator is the requirements of a long pulse facility and the ultra-high beam power of the ESS linac. The AC/DC Active Front End units of the modulators are based on the same power electronic structures as those of conventional solar inverters and are fully power reversible. This modulator front-end can be thought of as a three-way electrical valve in which:" 
+			+ "<ul><li>" + "When the sun is shining, power is pulled from the solar cells to power the RF transmitters and minimal power is pulled from the electrical grid for regulation. " + "</li>"
+			+ "<li>" + "When the sun is shining and the accelerator is not running (when in a maintenance period), the power from the solar cells is back-feed to the grid to add additional power to the electric grid. " + "</li>" 
+			+ "<li>" + "When the sun is partly shining, power is pulled from the solar cells and the grid to power the RF transmitters. The AC/DC and DC/DC converters automatically regulate how much power comes from each source. " + "</li>" 
+			+ "<li>" + "When the sun is not shining, power is pulled automatically from the grid to power the RF transmitters.  " + "</li></ul>"
+			+ "<p><img align=\"center\" src=\"img/solarModulator.jpg\"  width=\"20%\" /></p>"
+			+ "Preliminary studies have shown that a hybrid solar field occupying 30 percent of the ESS site <b><font color=\"green\">could supply enough electric energy to offset the proton beam energy emanating from the world&#34;s most powerful linear accelerator.</b></font>";
 		var greenSolar = "greenSolar";
 		var greenSolarText = "Solar energy calls to mind large fields of photovoltaic panels, but how &#34;green&#34; is a photovoltaic solar field?  Photovoltaic panels, with even the best technology, collect a minor fraction of the solar energy available. The energy payback time for a photovoltaic panel is the ratio between the energy required to produce a panel to the average rate of electrical energy gathered. For standard photovoltaic technology, the energy payback time can stretch to over one-half of a decade. With the rapid change of solar technology, many photovoltaic fields become obsolete even before they cross the energy break-even point. In addition, most solar panels are produced in countries where environmental laws are much less strict than in environmentally conscious Sweden.";
 		var solarHeat = "solarHeat";
@@ -84,6 +92,10 @@
 						<p id="sunnySweden"></p>
 					</div>
 					<div class="item">
+						<h1>A Solar Powered Particle Accelerator<a id="solarAcceleratorLink" onclick="moreLessText(solarAccelerator, solarAcceleratorText); return false;" class="readMoreLessLink"> (read more...)</a></h1>
+						<p id="solarAccelerator"></p>
+					</div>
+					<div class="item">
 						<h1>How Green is Solar?<a id="greenSolarLink" onclick="moreLessText(greenSolar, greenSolarText); return false;" class="readMoreLessLink"> (read more...)</a></h1>
 						<p id="greenSolar"></p>
 					</div>
@@ -112,22 +124,21 @@
 						<p id="summary"></p>
 					</div>
 					<div class="item">
-						<h1><a target="_blank" href="https://drive.google.com/open?id=1YtLWJrh7vpmt-Km0-8Db_Tv84CpRKZhjCGfLDXlYgXI">Learn More...</a></h1>
+						<h1><a target="_blank" href="https://docs.google.com/presentation/d/1YtLWJrh7vpmt-Km0-8Db_Tv84CpRKZhjCGfLDXlYgXI/pub?start=false&loop=false&delayms=3000">Learn More...</a></h1>
 						<p id="summary"></p>
 					</div>
 				</div>
 				<div class="sidenav">
 					<h1>Documentation</h1>
 					<ul>
-					  <li><a target="_blank" href="https://drive.google.com/open?id=1YtLWJrh7vpmt-Km0-8Db_Tv84CpRKZhjCGfLDXlYgXI">Concept Presentation</a></li>
-					  <li><a target="_blank" href="https://drive.google.com/open?id=1oA5YBjFY_Z-jj8WsAkE-nNNm6ku7iagccZy8oj7gWp4">Concept Write-up</a></li>
+					  <li><a target="_blank" href="https://docs.google.com/presentation/d/1YtLWJrh7vpmt-Km0-8Db_Tv84CpRKZhjCGfLDXlYgXI/pub?start=false&loop=false&delayms=3000">Concept Presentation</a></li>
+					  <li><a target="_blank" href="documents/SkaneSolarEnergyHub.pdf">Concept Write-up</a></li>
 					  <li><a target="_blank" href="documents/LTHMastersThesis.pdf">LTH Masters Thesis</a></li>
-					  <li><a target="_blank" href="https://drive.google.com/open?id=16RJWfyaoHaQL01EMQmW4cPWAATaI70_SQNm3wIXKiJ4">Lund vs Casablanca Comparison</a></li>
+					  <li><a target="_blank" href="https://docs.google.com/presentation/d/16RJWfyaoHaQL01EMQmW4cPWAATaI70_SQNm3wIXKiJ4/pub?start=false&loop=false&delayms=3000">Lund vs Casablanca Comparison</a></li>
 					</ul>
 					<h1>The Team</h1>
 					<ul>
 					  <li><a href="mailto:mats.alakula@volvo.com">Mats Alakula-LTH</a></li>
-					  <li><a href="mailto:anton.lundmark@esss.se">Anton Lundmark-ESS</a></li>
 					  <li><a href="mailto:carlos.martins@esss.se">Carlos Martins-ESS</a></li>
 					  <li><a href="mailto:david.mcginnis@esss.se">David McGinnis-ESS</a></li>
 					  <li><a href="mailto:jorgen.svensson@iea.lth.se">J&ouml;rgen Svensson-LTH</a></li>
@@ -135,7 +146,6 @@
 					<h1>Links</h1>
 					<ul>
 					  <li><a target="_blank" href="https://aig.esss.lu.se:8443/SolarCalculatorGWT/">Solar Calculator</a></li>
-					  <li><a target="_blank" href="https://drive.google.com/open?id=0B3Hieedgs_7FUnNlRHFaLVdTRG8">Share Drive</a></li>
 					  <li><a target="_blank" href="http://re.jrc.ec.europa.eu/pvgis/">PVGIS</a></li>
 					  <li><a target="_blank" href="https://github.com/se-esss-litterbox/solar-energy-hub">Git Repository</a></li>
 					  <li><a target="_blank" href="http://se-esss-litterbox.github.io/">se-esss-litterbox</a></li>
@@ -146,7 +156,7 @@
 				<div class="clearer"><span /></div>
 			</div>
 			<div class="footer">
-				<p>Page last updated on 27-February-2016 by Dave McGinnis</p>
+				<p>Page last updated on 4-April-2017 by Dave McGinnis</p>
 			</div>
 		</div>
 	</body>
